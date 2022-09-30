@@ -5,6 +5,6 @@
 
 <br>
 
-> Project Name: Task Manager
+> Project Name: Calculator
 
 
