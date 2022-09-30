@@ -1,14 +1,12 @@
-# CalcuDark
+# TaskMan
+### A Simple Android App For Managing Task
 
 #### Mobile Application Development
 #### CSE 4181(A) &ndash; Summer 2022 trimester
 
 <br>
 
-> Project Name: Calculator
-
-# Task Manager
-### A Simple Android App For Managing Task
+> Project Name: Task Manager
 
 <br>
 
